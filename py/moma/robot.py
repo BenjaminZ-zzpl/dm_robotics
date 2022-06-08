@@ -248,3 +248,6 @@ def standard_compose(
 
   for cam in wrist_cameras:
     arm.attach(cam, arm.wrist_site)
+
+# TO DO Complete Code:
+# def basic_stroke()
